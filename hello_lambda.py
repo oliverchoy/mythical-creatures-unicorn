@@ -3,7 +3,7 @@ import requests
 def lambda_handler(json_input, context):
     print(json_input)
     print(context)
-    print("Hello Unicorn A")
+    print("Hello Unicorn B")
 
 
 if __name__ == '__main__':
